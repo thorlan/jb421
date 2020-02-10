@@ -3,7 +3,7 @@ package com.jb421.chapter1;
 import org.apache.camel.spring.SpringRouteBuilder;
 import org.springframework.stereotype.Component;
 
-@Component
+//@Component
 public class ConvertBodyTo extends SpringRouteBuilder{
 
 	@Override
